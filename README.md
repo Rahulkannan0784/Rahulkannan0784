@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rahul Kannan
-## A passionate FullStack developer and a Competitive Programmer from India
+## A passionate FullStack developer and a Competitive Programmer.
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
